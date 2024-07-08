@@ -1,0 +1,19 @@
+Start Time: 1714283766.802455, End Time: 1714283776.802455, Throughput: 399312267 bytes
+Start Time: 28/04/2024 11:28:01, End Time: 28/04/2024 11:28:11, Throughput: 405510307 bytes
+Start Time: 28/04/2024 11:48:41, End Time: 28/04/2024 11:48:51, Throughput: 43997804.004329816 bytes
+Start Time: 28/04/2024 11:50:35, End Time: 28/04/2024 11:50:45, Throughput: 43134.999729595635 KB/sec
+Start Time: 28/04/2024 11:52:43, End Time: 28/04/2024 11:52:53, Throughput: 43520.699736914605 KB/sec
+Start Time: 28/04/2024 11:56:09, End Time: 28/04/2024 11:56:19, Throughput: 43872.10642333922 KB/sec
+Start Time: 28/04/2024 11:56:49, End Time: 28/04/2024 11:56:59, Throughput: 43124.345086572546 KB/sec
+Start Time: 28/04/2024 11:59:19, End Time: 28/04/2024 11:59:29, Throughput: 43520.795958289964 KB/sec
+Start Time: 28/04/2024 12:10:39, End Time: 28/04/2024 12:10:49, Throughput: 57534.13589512359 KB/sec
+,  Probe Count: 4Start Time: 28/04/2024 12:17:57, End Time: 28/04/2024 12:18:07, Throughput: 11.243248910729033 KB/sec,  Probe Count: 4
+Start Time: 28/04/2024 12:20:07, End Time: 28/04/2024 12:20:17, Throughput: 10.357835667313825 KB/sec,  Probe Count: 4
+Start Time: 28/04/2024 12:26:41, End Time: 28/04/2024 12:26:51, Throughput: 0.05868239750387062 KB/sec,  Probe Count: 4
+Start Time: 28/04/2024 12:27:58, End Time: 28/04/2024 12:28:08, Throughput: 4.9828409429423495 KB/sec,  Probe Count: 4
+Start Time: 28/04/2024 12:28:39, End Time: 28/04/2024 12:28:49, Throughput: 6.062445780192072 KB/sec,  Probe Count: 181
+Start Time: 28/04/2024 12:29:13, End Time: 28/04/2024 12:29:23, Throughput: 5.707794437430896 KB/sec,  Probe Count: 177
+Start Time: 28/04/2024 12:29:56, End Time: 28/04/2024 12:30:06, Throughput: 5.56655752047865 KB/sec,  Probe Count: 184
+Start Time: 28/04/2024 12:31:25, End Time: 28/04/2024 12:31:35, Throughput: 1.7913369747518115 KB/sec,  Probe Count: 180
+Start Time: 28/04/2024 15:32:31, End Time: 28/04/2024 15:32:35, Throughput: 9.073856756136102 KB/sec,  Probe Count: 1
+Start Time: 28/04/2024 15:59:05, End Time: 28/04/2024 15:59:09, Throughput: 25.48 KB/sec, Probe Count: 1, Probe_freq: 3, run_time: 4
