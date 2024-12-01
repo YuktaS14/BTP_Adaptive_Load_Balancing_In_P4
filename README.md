@@ -11,12 +11,17 @@ With the increasing demand for network services, efficient load balancing is ess
 
 ### 1. **Probe Enhanced Weighted Round Robin (WRR) Load Balancing**
 
+![Setup1](s11.png)
+
 - This algorithm collects regular **probes** from virtual machines, including CPU, memory, and link utilization metrics.
 - The probes are encapsulated in a custom header and transmitted to the **P4 switch**, where the load balancer calculates a weighted mean based on pre-determined weights.
 - The dynamic weights adjust according to **resource usage**, optimizing load distribution with an idle timeout mechanism to optimize resource usage.
 - Ensures that failed VMs are excluded from receiving further requests..
 
 ### 2. **Promethee-Prometheus Driven Load Balancing**
+
+![Setup2](S1.png)
+
 
 - Integrates the **Promethee II algorithm** and **Analytic Hierarchy Process (AHP)** to dynamically select the optimal VM based on real-time system metrics.
 - Prometheus is used to monitor and collect metrics from VMs, and these metrics are used in conjunction with AHP to determine the relative importance of CPU, memory, and network metrics for load balancing decisions.
@@ -49,6 +54,9 @@ To maintain **high availability** and **reliability**, we incorporated **health 
 ## 📊 **Conclusion**
 
 This project demonstrates the power of **P4’s programmability** to create a dynamic and efficient load balancing solution for virtualized environments. By utilizing **real-time metrics**, the system adapts to varying resource demands and outperforms traditional static load balancing methods. Following is the snapshot of the observations we gained while comparing our approach with other traditional algorithms:
+
+![Observations](Result.png)
+
 
 ## 🙋 **Contributors**
 - **[Yukta Salunkhe]**
